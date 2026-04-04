@@ -1,0 +1,37 @@
+body{
+    background-color:#1C1C1C;
+}
+
+h1{
+    font-family: arial;
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+h2{
+    font-family: arial;
+    color: whitesmoke;
+    font-size: 28px;
+}
+
+p, ul{
+    font-family:arial;
+    text-align:justify;
+    color: whitesmoke;
+    line-height: 22px;
+}
+
+a:visited, a:link{
+    color: whitesmoke;
+}
+
+.centro{
+    text-align:center;
+}
+
+.bordacinza{
+    background: gray;
+    border-right-width: 1px;
+    border-bottom: 3px solid whitesmoke;
+    
+}
